@@ -8,4 +8,8 @@ namespace ConsoleApp;
 
 internal class Tr
 {
+    static void Feature1()
+    {
+        Console.WriteLine("Hello, World #1");
+    }
 }
